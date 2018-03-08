@@ -1,0 +1,14 @@
+c:\users\opilane\documents\visual studio 2017\Projects\WPF-asjad\WPF-asjad\bin\Debug\WPF-asjad.exe.config
+c:\users\opilane\documents\visual studio 2017\Projects\WPF-asjad\WPF-asjad\bin\Debug\WPF-asjad.exe
+c:\users\opilane\documents\visual studio 2017\Projects\WPF-asjad\WPF-asjad\bin\Debug\WPF-asjad.pdb
+c:\users\opilane\documents\visual studio 2017\Projects\WPF-asjad\WPF-asjad\obj\Debug\WPF-asjad.csprojResolveAssemblyReference.cache
+c:\users\opilane\documents\visual studio 2017\Projects\WPF-asjad\WPF-asjad\obj\Debug\MainWindow.g.cs
+c:\users\opilane\documents\visual studio 2017\Projects\WPF-asjad\WPF-asjad\obj\Debug\App.g.cs
+c:\users\opilane\documents\visual studio 2017\Projects\WPF-asjad\WPF-asjad\obj\Debug\WPF-asjad_MarkupCompile.cache
+c:\users\opilane\documents\visual studio 2017\Projects\WPF-asjad\WPF-asjad\obj\Debug\WPF-asjad_MarkupCompile.lref
+c:\users\opilane\documents\visual studio 2017\Projects\WPF-asjad\WPF-asjad\obj\Debug\MainWindow.baml
+c:\users\opilane\documents\visual studio 2017\Projects\WPF-asjad\WPF-asjad\obj\Debug\WPF-asjad.g.resources
+c:\users\opilane\documents\visual studio 2017\Projects\WPF-asjad\WPF-asjad\obj\Debug\WPF_asjad.Properties.Resources.resources
+c:\users\opilane\documents\visual studio 2017\Projects\WPF-asjad\WPF-asjad\obj\Debug\WPF-asjad.csproj.GenerateResource.Cache
+c:\users\opilane\documents\visual studio 2017\Projects\WPF-asjad\WPF-asjad\obj\Debug\WPF-asjad.exe
+c:\users\opilane\documents\visual studio 2017\Projects\WPF-asjad\WPF-asjad\obj\Debug\WPF-asjad.pdb
